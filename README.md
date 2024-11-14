@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Brainwave
 
-## Getting Started
+Modern AI UI/UX website
 
-First, run the development server:
+# 📑Table of content
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. 🤖Introduction
+2. 🖥️Tech Stack
+3. 🔋Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 🤖Introduction
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# 🖥️ Tech Stack
 
-## Learn More
+ - Next.js
+ - Tailwind CSS
 
-To learn more about Next.js, take a look at the following resources:
+# 🔋Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👉 Beautiful Sections: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+👉 Parallax Animations: Engaging effects triggered by mouse movement and scrolling
 
-## Deploy on Vercel
+👉 Complex UI Geometry: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+👉 Latest UI Trends: Incorporates modern design elements such as bento grids.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+👉 Cool Gradients: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+
+👉 Responsive: Ensures seamless functionality and aesthetics across all devices
+
+and many more, including code architecture and reusability.
